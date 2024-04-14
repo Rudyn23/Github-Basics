@@ -1,0 +1,3 @@
+A terminal is a command were people can interact wiuth a comoputrer through text commands. It executes certain commands such as executing commands, navagating through files and more.
+Git is a disturbed version control system used for tracking changes in code locally, whereas Githhub is a web based platform that host Git repositories, providing collaboration tools and social coding environment for developers to share and manage their projects ponline.
+To fork a GitHub repository, mnavigate the repositiry page on GitHub and then, find the fork button and click on it. It will create a copy of the reposityory under the account. Finally, you can clone the repository using Git clone command which is followed by the URL of your forked Repositoruy.
